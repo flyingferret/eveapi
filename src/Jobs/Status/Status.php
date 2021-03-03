@@ -54,7 +54,7 @@ class Status extends EsiBase
     /**
      * @var array
      */
-    protected $tags = ['public', 'meta'];
+    protected $tags = ['public', 'meta','status'];
 
     /**
      * @return array
